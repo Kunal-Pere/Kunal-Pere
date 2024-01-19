@@ -1,4 +1,4 @@
-![logo](https://github.com/Kunal-Pere/Kunal-Pere/blob/main/Github%20banner.png?raw=true)
+![logo](https://github.com/Kunal-Pere/Kunal-Pere/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Kunal Pere</h1>
 <h3 align="center">A Passionate Front & Backend Engineer</h3>
 <img align="right" alt= "coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU">
