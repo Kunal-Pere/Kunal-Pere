@@ -1,5 +1,5 @@
-<img align="right" alt= "coding" width="500" src= "https://github.com/Kunal-Pere/Kunal-Pere/blob/main/devops.jpg">
 <h1 align="center">Hello 👋, I'm Kunal Pere</h1>
+<img align="right" alt= "coding" width="300" src= "https://github.com/Kunal-Pere/Kunal-Pere/blob/main/devops.jpg">
 <h3 align="center">A Passionate DevOps Engineer</h3>
 <img align="left" alt= "coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU">
 
