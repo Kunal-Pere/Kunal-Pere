@@ -1,21 +1,21 @@
 ![logo](https://github.com/Kunal-Pere/Kunal-Pere/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Kunal Pere</h1>
-<h3 align="center">A Passionate Cloud Engineer</h3>
+<h1 align="center">Hello 👋, I'm Kunal Pere</h1>
+<h3 align="center">A Passionate DevOps Engineer</h3>
 <img align="right" alt= "coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-pere&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-pere" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal-pere" alt="kunal-pere" /></a> </p>
 
-- 🔭 I’m currently working on **Tech_Mahindra**
+- 🔭 I’m currently working in **Tech_Mahindra**
 
-- 🌱 I’m currently learning **AWS-Azure-GCP**
+- 🌱 I’m currently learning **AWS-Azure-DevOps**
 
-- 💬 Ask me about **HTML-CSS-JavaScript-Python-JSON-AWS-Azure-GCP**
+- 💬 Ask me about ** AWS & DevOps**
 
 - 📫 How to reach me **pere.kunal9@gmail.com**
 
-- ⚡ Fun fact **Daily I create one server**
+- ⚡ Fun fact **DevOps stop my personal run-time :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
