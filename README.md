@@ -1,4 +1,4 @@
-![logo](https://github.com/Kunal-Pere/Kunal-Pere/blob/main/github-header-image.png)
+![logo](https://images.app.goo.gl/mLfV4oiQKGbW3Nxt7)
 <h1 align="center">Hello 👋, I'm Kunal Pere</h1>
 <h3 align="center">A Passionate DevOps Engineer</h3>
 <img align="center" alt= "coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU">
