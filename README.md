@@ -1,4 +1,4 @@
-<img align="center" alt= "coding" width="500" src= "https://github.com/Kunal-Pere/Kunal-Pere/assets/157100045/97fe1ea1-79b3-4bf1-abe5-72f44ddcdb00" >
+<img align="right" alt= "coding" width="400" src= "https://github.com/Kunal-Pere/Kunal-Pere/assets/157100045/97fe1ea1-79b3-4bf1-abe5-72f44ddcdb00" >
 <h1 align="center">Hello 👋, I'm Kunal Pere</h1>
 <h3 align="center">A Passionate DevOps Engineer</h3>
 <img align="center" alt= "coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU">
