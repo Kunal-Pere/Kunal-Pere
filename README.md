@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **pere.kunal9@gmail.com**
 
-- ⚡ Fun fact **DevOps stop my personal run-time :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
