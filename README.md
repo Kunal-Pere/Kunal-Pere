@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AWS-Azure-DevOps**
 
-- 💬 Ask me about ** AWS & DevOps**
+- 💬 Ask me about **AWS & DevOps**
 
 - 📫 How to reach me **pere.kunal9@gmail.com**
 
